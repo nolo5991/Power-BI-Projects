@@ -1,4 +1,4 @@
-# Dashboard 1: Netflix
+# Dashboard 1: Amazon Prime Video
 
 Presenting PrimeInsight: Amazon Prime Video's Data Dashboard. Gain deep insights into viewer behavior, content performance, and trends. Drive informed decisions and optimize strategies with real-time analytics. Elevate your Prime Video experience with actionable insights. Unlock the full potential of your content with PrimeInsight.
 
